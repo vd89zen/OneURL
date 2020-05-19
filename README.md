@@ -1,1 +1,1 @@
-"Тут должно быть описание функционала" 
+There should be a description of the functionality here. Soon.
